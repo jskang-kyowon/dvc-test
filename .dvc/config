@@ -1,0 +1,6 @@
+[core]
+    remote = d:\git_workspace\wellsfarm_img_augmentation\data
+['remote "c:\users\owner\workspace\dvc-pipline"']
+    url = D:/Git_workspace/wellsfarm_img_augmentation/data
+['remote "d:\git_workspace\wellsfarm_img_augmentation\data"']
+    url = C:/Users/Owner/workspace/dvc-data
